@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Anasfadz<br>👀 I’m interested in various technologies. Mostly focused on developing PHP software system by using PHP framework such as CodeIgniter and Laravel. <br>🌱 I’m currently learning React.js, VUe.js, Nodejs, Angular, ionic Laravel, PHP, CodeIgniter, AWS, Tensorflow, Python, Java and PHP.<br>💞️ I'm seeking to work on any project linked to the services industry, with a focus on developing the backend, databases, APIs, and automations.<br>📫 How to reach me : anas fadzrin@gmail.com
+👋 Hi, I’m Anas Fadzrin<br>👀 I’m interested in various technologies. Mostly focused on developing PHP software system by using PHP framework such as CodeIgniter and Laravel. <br>🌱 I’m currently learning React.js, VUe.js, Nodejs, Angular, ionic Laravel, PHP, CodeIgniter, AWS, Tensorflow, Python, Java and PHP.<br>💻 I'm seeking to work on any project linked to the services industry, with a focus on developing the backend, databases, APIs, and automations.<br>📫 How to reach me : anas fadzrin@gmail.com
 
 
 ## 🌐 Socials:
