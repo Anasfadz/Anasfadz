@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Anas Fadzrin
 👀 I’m interested in various technologies, with a strong focus on developing PHP-based software systems using frameworks such as **CodeIgniter** and **Laravel**.
-🌱 I’m currently learning and exploring **React.js, Vue.js, Node.js, Angular, Ionic, Laravel, PHP, CodeIgniter, AWS, TensorFlow, Python, and Java**.
+🌱 I’m currently learning and exploring **React.js, Vue.js, Node.js, Angular, Ionic, Laravel, PHP, CodeIgniter, AWS, TensorFlow, Python, Dart, FLutter, Go, Springboot and Java**.
 💻 I'm seeking opportunities to work on projects within the **services and fintech industry**, especially those involving **backend development, databases, APIs, system integrations, and automation**.
 📫 How to reach me: **[anasfadzrin@gmail.com](mailto:anasfadzrin@gmail.com)**
 
@@ -12,7 +12,7 @@
 
 ### **Current Company – SenangPay (Fintech Payment Gateway)**
 
-At **SenangPay**, I am responsible for maintaining and enhancing existing systems, mainly involving **bug fixing**, **change requests**, and **feature improvements** for merchant and internal platforms. The core technology stack includes **Laravel** for backend development and **Vue.js** for frontend components.
+At **SenangPay**, I am responsible for maintaining and enhancing existing systems, mainly involving **bug fixing**, **change requests**, and **feature improvements** for merchant and internal platforms. My major acchivement is I manage to develop new **FPX** payment channel on our platform. The core technology stack includes **Native PHP**.
 
 In addition to maintenance work, I am involved in:
 
